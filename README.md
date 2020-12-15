@@ -1,2 +1,2 @@
-# document-classification-ml
-Document Classification Using Machine Learning
+# Document Classification Using Machine Learning
+Document Classification
